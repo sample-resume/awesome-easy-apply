@@ -1,6 +1,6 @@
 # Awesome Easy Apply [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Collection of 800+ software engineering companies that use easy-to-apply job platforms like Lever and Greenhouse.
+> A curated list of 800+ software engineering companies that use easy-to-apply job platforms like Lever and Greenhouse.
 > Inspired by the OG [Easy Application repo](https://github.com/j-delaney/easy-application/tree/master)
 
 ## Companies
