@@ -1,7 +1,10 @@
-# Awesome Easy Apply
-Inspired by the OG [Easy Application repo](https://github.com/j-delaney/easy-application/tree/master)
+# Awesome Easy Apply [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<!-- BEGIN DATA -->
+> Collection of 800+ software engineering companies that use easy-to-apply job platforms like Lever and Greenhouse.
+> Inspired by the OG [Easy Application repo](https://github.com/j-delaney/easy-application/tree/master)
+
+## Companies
+
 | Company | Description | Location | LinkedIn | Career Page |
 | --- | --- | --- | :---: | :---: |
 | [1047 Games](https://www.splitgate.com) | 1047 Games is an American video game developer company. Known for creating the online multiplayer first person shooter game Splitgate. | Zephyr Cove, Nevada, United States | <a href="https://www.linkedin.com/company/1047games"><img height='40' width='40' src="https://logo.clearbit.com/linkedin.com" /></a> | [Link](https://boards.greenhouse.io/1047games) |
@@ -795,3 +798,8 @@ Inspired by the OG [Easy Application repo](https://github.com/j-delaney/easy-app
 | [Zoox](https://www.zoox.com/) | Zoox is an AI robotics company that provides mobility as-a-service and self-driving car services. | Foster City, California, United States | <a href="https://www.linkedin.com/company/zoox-inc/"><img height='40' width='40' src="https://logo.clearbit.com/linkedin.com" /></a> | [Link](https://jobs.lever.co/zoox) |
 | [Zora](https://zora.co) | Zora Labs is a marketplace for non-fungible tokens. | Los Angeles, California, United States | <a href="https://www.linkedin.com/company/ourzora"><img height='40' width='40' src="https://logo.clearbit.com/linkedin.com" /></a> | [Link](https://boards.greenhouse.io/zora) |
 | [Zotec Partners](http://www.zotecpartners.com) | Medical billing and practice management | Carmel, Indiana, United States | <a href="http://www.linkedin.com/company/87076"><img height='40' width='40' src="https://logo.clearbit.com/linkedin.com" /></a> | [Link](https://jobs.lever.co/zotecpartners) |
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
